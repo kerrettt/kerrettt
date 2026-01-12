@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **Discrete Mathematics and full stack development**
+- 🌱 I’m currently learning **Data Structures and Algorithms and Linear Algebra**
 
 - 👯 I’m looking to collaborate on **machine learning projects**
 
