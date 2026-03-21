@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **machine learning projects**
 
-- 👨‍💻 All of my projects are available at [kerrett.com](kerrett.com)
+- 👨‍💻 All of my projects are available at [kerrett.com](https://kerrett.com)
 
 - 📫 How to reach me **contact@kerrett.com**
 
