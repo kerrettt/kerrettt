@@ -1,7 +1,7 @@
 <h1 align="center">Howdy! I'm Garrett Morris</h1>
 <h3 align="center">A programmer from Houston, TX!</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **personal ML projects**
 
 - 🌱 I’m currently learning **Machine Learning**
 
